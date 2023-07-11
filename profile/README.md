@@ -35,7 +35,7 @@ contribute, you must observe the following requirements:
 Steps to contribute a new repo:
 
 1. Stage your repo on an organization you own (e.g. your personal org)
-1. Reach out to us at on our [Discord] or info@chiselstrike.com to provide a
+1. Reach out to us at on our [Discord] or info@turso.tech to provide a
    link and ask for a review.
 1. We will review your submission, possibly offering suggestions.
 1. After we accept it, you can [transfer the repo] to the turso-extended
